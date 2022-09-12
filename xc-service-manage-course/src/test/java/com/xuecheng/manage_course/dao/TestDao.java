@@ -31,7 +31,6 @@ public class TestDao {
             CourseBase courseBase = optional.get();
             System.out.println(courseBase);
         }
-
     }
 
     @Test
